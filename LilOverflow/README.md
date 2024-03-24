@@ -26,5 +26,7 @@ Stack frame structure:
 ## Assembling
 
 `(b"\x00" * BUFF_SIZE)` 0x00 empty string to fill the buffer
+
 `(b"\x00" * L20_OFFSET)` 8 bytes to fill `local_10` and point to `local_20`
+
 `MAGIC` we just overwrite `local_20` with our magic number
