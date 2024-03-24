@@ -1,4 +1,6 @@
 # Big Bird
+[> *Challenge (500)*](https://training.olicyber.it/challenges#challenge-230)
+
 This challenge aims at canary handling.
 
 We need to call the `win()` function to expose the flag.
