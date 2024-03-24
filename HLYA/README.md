@@ -1,4 +1,5 @@
 # How lucky you are
+[> *Challenge (1000)*](https://training.olicyber.it/challenges#challenge-165)
 
 This challenge is really easy, the decompilation shows:
 ```c
