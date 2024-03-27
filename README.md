@@ -3,7 +3,7 @@
 - [**Big Bird**](https://github.com/utcq/olicybsec/tree/main/BigBird)
 - [**Lil-Overflow**](https://github.com/utcq/olicybsec/tree/main/LilOverflow)
 - [**How lucky you are**](https://github.com/utcq/olicybsec/tree/main/HLYA)
-- [**The Wall**](https://github.com/utcq/olicybsec/tree/main/Thewall)
+- [**The Wall**](https://github.com/utcq/olicybsec/tree/main/TheWall)
 ---
 ## Network
 - [**Sniff 'n' byte**](https://github.com/utcq/olicybsec/tree/main/SniffNB)
