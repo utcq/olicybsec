@@ -1,5 +1,5 @@
 # super_market
-[> *Challenge (1000)*](https://training.olicyber.it/challenges#challenge-99)
+[> *Challenge (500)*](https://training.olicyber.it/challenges#challenge-99)
 
 ## Solution
 
