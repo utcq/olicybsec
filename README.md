@@ -15,6 +15,7 @@
 - [**Protocollo datagramma utente**](https://github.com/utcq/olicybsec/tree/main/wups/PDU)
 - [**Poca Cola's Recipe**](https://github.com/utcq/olicybsec/tree/main/wups/PocaCola)
 - [**Word Wang**](https://github.com/utcq/olicybsec/tree/main/wups/WordWang)
+- [**NaaS**](https://github.com/utcq/olicybsec/tree/main/wups/NaaS)
 ---
 ## Web
 - [**No Robots Here**](https://github.com/utcq/olicybsec/tree/main/wups/NoRobots)
@@ -30,4 +31,6 @@
 - [**Make a wish**](https://github.com/utcq/olicybsec/tree/main/wups/MakeWish)
 - [**Shells' Revenge**](https://github.com/utcq/olicybsec/tree/main/wups/ShellRevenge)
 - [**TIMP**](https://github.com/utcq/olicybsec/tree/main/wups/TIMP)
+- [**EasyNotes**](https://github.com/utcq/olicybsec/tree/main/wups/EasyNotes)
+- [**NFT gallery**](https://github.com/utcq/olicybsec/tree/main/wups/NFTGallery)
 ---
