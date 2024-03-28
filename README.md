@@ -4,6 +4,11 @@
 - [**Lil-Overflow**](https://github.com/utcq/olicybsec/tree/main/LilOverflow)
 - [**How lucky you are**](https://github.com/utcq/olicybsec/tree/main/HLYA)
 - [**The Wall**](https://github.com/utcq/olicybsec/tree/main/TheWall)
+- [**super_market**](https://github.com/utcq/olicybsec/tree/main/SuperMarket)
+- [**Hidden Variable**](https://github.com/utcq/olicybsec/tree/main/HiddenVariable)
+- [**privateclub**](https://github.com/utcq/olicybsec/tree/main/PrivateClub)
+- [**van_halen**](https://github.com/utcq/olicybsec/tree/main/VanHalen)
+- [**keygenme**](https://github.com/utcq/olicybsec/tree/main/Keygenme)
 ---
 ## Network
 - [**Sniff 'n' byte**](https://github.com/utcq/olicybsec/tree/main/SniffNB)
