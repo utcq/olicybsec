@@ -1,4 +1,4 @@
-# Olicyber Writeup
+# Olicyber Writeups
 ## Software
 - [**Big Bird**](https://github.com/utcq/olicybsec/tree/main/wups/BigBird)
 - [**Lil-Overflow**](https://github.com/utcq/olicybsec/tree/main/wups/LilOverflow)
