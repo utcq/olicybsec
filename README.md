@@ -9,6 +9,7 @@
 - [**privateclub**](https://github.com/utcq/olicybsec/tree/main/wups/PrivateClub)
 - [**van_halen**](https://github.com/utcq/olicybsec/tree/main/wups/VanHalen)
 - [**keygenme**](https://github.com/utcq/olicybsec/tree/main/wups/Keygenme)
+- [**GuessTheNumber**](https://github.com/utcq/olicybsec/tree/main/wups/GuessTheNumber)
 ---
 ## Network
 - [**Sniff 'n' byte**](https://github.com/utcq/olicybsec/tree/main/wups/SniffNB)
@@ -33,4 +34,8 @@
 - [**TIMP**](https://github.com/utcq/olicybsec/tree/main/wups/TIMP)
 - [**EasyNotes**](https://github.com/utcq/olicybsec/tree/main/wups/EasyNotes)
 - [**NFT gallery**](https://github.com/utcq/olicybsec/tree/main/wups/NFTGallery)
+---
+
+## Misc
+- [**I Hate Captcha!**](https://github.com/utcq/olicybsec/tree/main/wups/IHC)
 ---
