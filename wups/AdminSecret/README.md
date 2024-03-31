@@ -1,5 +1,5 @@
 # Admin's secret
-[> *Challenge (500)*](https://training.olicyber.it/challenges#challenge-48)
+[> *Challenge (500)*](https://training.olicyber.it/challenges#challenge-44)
 
 ## Solution
 As the hint says we need to exploit the register form.
