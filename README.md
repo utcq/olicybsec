@@ -35,6 +35,7 @@
 - [**TIMP**](https://github.com/utcq/olicybsec/tree/main/wups/TIMP)
 - [**EasyNotes**](https://github.com/utcq/olicybsec/tree/main/wups/EasyNotes)
 - [**NFT gallery**](https://github.com/utcq/olicybsec/tree/main/wups/NFTGallery)
+- [**Admin's secret**](https://github.com/utcq/olicybsec/tree/main/wups/AdminSecret)
 ---
 
 ## Misc
