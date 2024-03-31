@@ -18,6 +18,7 @@
 - [**Poca Cola's Recipe**](https://github.com/utcq/olicybsec/tree/main/wups/PocaCola)
 - [**Word Wang**](https://github.com/utcq/olicybsec/tree/main/wups/WordWang)
 - [**NaaS**](https://github.com/utcq/olicybsec/tree/main/wups/NaaS)
+- [**Form sicurissimo**](https://github.com/utcq/olicybsec/tree/main/wups/FormSicurissimo)
 ---
 ## Web
 - [**No Robots Here**](https://github.com/utcq/olicybsec/tree/main/wups/NoRobots)
