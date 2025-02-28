@@ -48,5 +48,6 @@
 
 - [**I Like Hashes**](https://github.com/utcq/olicybsec/tree/main/wups/ILikeHashes)
 - [**Fast RSA**](https://github.com/utcq/olicybsec/tree/main/wups/FastRSA)
+- [**Similar Key, Big Problem**](https://github.com/utcq/olicybsec/tree/main/wups/SimilarKey)
 
 ---
