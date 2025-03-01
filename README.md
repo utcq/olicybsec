@@ -54,4 +54,5 @@
 - [**1337 XOR**](./wups/leetxor)
 - [**Classic Cipher**](./wups/ClassicCipher)
 - [**Small RSA**](./wups/SmallRSA)
+- [**Custom RSA**](./wups/CustomRSA)
 ---
