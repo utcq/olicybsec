@@ -51,4 +51,5 @@
 - [**Similar Key, Big Problem**](./wups/SimilarKey)
 - [**Nice RSA**](./wups/NiceRSA)
 - [**1337 XOR**](./wups/leetxor)
+- [**Classic Cipher**](./wups/ClassicCipher)
 ---
