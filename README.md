@@ -38,6 +38,7 @@
 - [**EasyNotes**](./wups/EasyNotes)
 - [**NFT gallery**](./wups/NFTGallery)
 - [**Admin's secret**](./wups/AdminSecret)
+- [**Ready Player One**](./wups/ReadyPlayerOne)
 ---
 
 ## Misc
@@ -52,4 +53,5 @@
 - [**Nice RSA**](./wups/NiceRSA)
 - [**1337 XOR**](./wups/leetxor)
 - [**Classic Cipher**](./wups/ClassicCipher)
+- [**Small RSA**](./wups/SmallRSA)
 ---
