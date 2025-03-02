@@ -55,4 +55,5 @@
 - [**Classic Cipher**](./wups/ClassicCipher)
 - [**Small RSA**](./wups/SmallRSA)
 - [**Custom RSA**](./wups/CustomRSA)
+- [**Restless Sooper Army**](./wups/Restless)
 ---
