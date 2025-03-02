@@ -58,4 +58,6 @@
 - [**Custom RSA**](./wups/CustomRSA)
 - [**Restless Sooper Army**](./wups/Restless)
 - [**Probably a simple sieve won't be enough**](./wups/NoSieve)
+- [**Secure Key Generator**](./wups/SecureKey)
+- [**La Prima Chiave**](./wups/PrimaChiave)
 ---
