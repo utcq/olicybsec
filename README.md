@@ -39,6 +39,7 @@
 - [**NFT gallery**](./wups/NFTGallery)
 - [**Admin's secret**](./wups/AdminSecret)
 - [**Ready Player One**](./wups/ReadyPlayerOne)
+- [**ITASECshop - 1mln$ Flag**](./wups/ITASECShop)
 ---
 
 ## Misc
@@ -56,4 +57,5 @@
 - [**Small RSA**](./wups/SmallRSA)
 - [**Custom RSA**](./wups/CustomRSA)
 - [**Restless Sooper Army**](./wups/Restless)
+- [**Probably a simple sieve won't be enough**](./wups/NoSieve)
 ---
