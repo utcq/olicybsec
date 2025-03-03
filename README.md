@@ -63,4 +63,5 @@
 - [**La Prima Chiave**](./wups/PrimaChiave)
 - [**Block 1337**](./wups/Block1337)
 - [**Large bits of RSA**](./wups/LargeBits)
+- [**PoliTO ch(e)atbot**](./wups/PolitoCheatBot)
 ---
