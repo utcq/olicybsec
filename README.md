@@ -12,6 +12,7 @@
 - [**GuessTheNumber**](./wups/GuessTheNumber)
 - [**crackmat**](./wups/crackmat)
 - [**Age Calculator Pro**](./wups/AgeCalcPro)
+- [**Memory Wizard**](./wups/MemoryWizard)
 ---
 ## Network
 - [**Sniff 'n' byte**](./wups/SniffNB)
