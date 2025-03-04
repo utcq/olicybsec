@@ -41,6 +41,7 @@
 - [**Admin's secret**](./wups/AdminSecret)
 - [**Ready Player One**](./wups/ReadyPlayerOne)
 - [**ITASECshop - 1mln$ Flag**](./wups/ITASECShop)
+- [**Sn4ck sh3nan1gans**](./wups/sn4ck)
 ---
 
 ## Misc
