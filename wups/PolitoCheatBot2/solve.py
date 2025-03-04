@@ -22,24 +22,24 @@ def encrypt(plain: str):
 print("Session:", session)
 print("Password:", password)
 
-pad_byte = 0
+rounds = [-1]
+latest_round = 0
+i=0
+while latest_round != rounds[0]:
+    rd = encrypt(password)
+    xor_key = xor(bytes.fromhex(rd), bytes.fromhex(password))
+    rd = bytes.fromhex(rd)
+    if i != 0:
+        rounds.append(rd)
+        latest_round = rd
+    else:
+        rounds[i] = rd
+    i+=1
+del rounds[-1]
+
 psw_bytes = bytes.fromhex(password)
-for _ in range(len(psw_bytes)//4):
-    pad_test_cipher = bytes.fromhex(encrypt(password))
-    pad_byte_n = pad_test_cipher[0] ^ bytes.fromhex(password)[0]
-    if pad_byte != 0:
-        assert pad_byte_n == pad_byte + 1
-    if pad_byte != 0:
-        prevision = xor(psw_bytes, bytes([pad_byte+1]*len(psw_bytes)))
-        assert pad_test_cipher == prevision
-    pad_byte = pad_byte_n
-    print("[{}] Pad byte:".format(_+1), hex(pad_byte)[2:], " -> Prevision correct")
+for pad in rounds:
+    cipher = xor(psw_bytes, pad)
 
-
-pad_bytes = bytes([0x7a]*len(psw_bytes))
-prevision = xor(psw_bytes, pad_bytes)
-print("Pad bytes:", pad_bytes.hex())
-print("Password cipher:", prevision.hex())
-assert xor(prevision, pad_bytes) == psw_bytes
-msg_r = requests.post(api_url + "message", cookies={"session": session}, json={"message": prevision.hex()}).json()
-print(msg_r)
+    r_msg = requests.post(api_url + "message", cookies={"session": session}, json={"message": cipher.hex()})
+    print(r_msg.json())
