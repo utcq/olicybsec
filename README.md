@@ -66,4 +66,6 @@
 - [**Large bits of RSA**](./wups/LargeBits)
 - [**PoliTO ch(e)atbot**](./wups/PolitoCheatBot)
 - [**Delphi**](./wups/delphi)
+- [**CryptORlAND**](./wups/CryptOR)
+- [**Modes Diff**](./wups/Modes)
 ---
