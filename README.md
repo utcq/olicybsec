@@ -74,4 +74,6 @@
 - [**Imager XOR**](./wups/ImagerXOR)
 - [**XOR Temporale**](./wups/XORTemporale)
 - [**Condividendo segreti**](./wups/CondSegreti)
+- [**XOR Minimale**](./wups/XORMinimale)
+- [**Passwordless Login**](./wups/Passwordless)
 ---
