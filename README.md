@@ -21,6 +21,7 @@
 - [**Word Wang**](./wups/WordWang)
 - [**NaaS**](./wups/NaaS)
 - [**Form sicurissimo**](./wups/FormSicurissimo)
+- [**Le Mosse**](./wups/Mosse)
 ---
 ## Web
 - [**No Robots Here**](./wups/NoRobots)
