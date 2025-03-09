@@ -72,4 +72,5 @@
 - [**Modes Diff**](./wups/Modes)
 - [**Sleepy**](./wups/sleepy)
 - [**Imager XOR**](./wups/ImagerXOR)
+- [**XOR Temporale**](./wups/XORTemporale)
 ---
