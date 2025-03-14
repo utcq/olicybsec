@@ -13,6 +13,8 @@
 - [**crackmat**](./wups/crackmat)
 - [**Age Calculator Pro**](./wups/AgeCalcPro)
 - [**Memory Wizard**](./wups/MemoryWizard)
+- [**Formatter lv 1**](./wups/FormatterLv1)
+- [**Formatter lv 2**](./wups/FormatterLv2)
 ---
 ## Network
 - [**Sniff 'n' byte**](./wups/SniffNB)
@@ -44,6 +46,7 @@
 - [**ITASECshop - 1mln$ Flag**](./wups/ITASECShop)
 - [**Sn4ck sh3nan1gans**](./wups/sn4ck)
 - [**SecretCheckAI**](./wups/SecretCheckAI)
+- [**CAPTCHA**](./wups/captcha)
 ---
 
 ## Misc
